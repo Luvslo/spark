@@ -1,0 +1,10 @@
+spark
+=====
+
+Created this game for educational purpose.
+
+This is a text based multidimensional dungeon game where you can visit different rooms. 
+
+You can chat with other users in the same room. Can whisper to a player, or broadcast to the entire world.
+
+The world is designed as a cube, similar to one in Transformers, hence the name "spark".
